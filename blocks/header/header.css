@@ -52,6 +52,9 @@ header nav p {
 
 header nav a:any-link {
   color: currentcolor;
+  background: #e7edf3;
+  padding: 10px;
+  border-radius: 100px;
 }
 
 /* hamburger */
@@ -140,7 +143,7 @@ header .nav-brand {
   grid-area: brand;
   flex-basis: 128px;
   font-size: var(--heading-font-size-s);
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1;
 }
 
